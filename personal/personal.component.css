@@ -1,0 +1,10 @@
+.container{
+  background-color: aqua;
+  width: 60%;
+  height: 700px;
+  border-radius: 1vh;
+  margin-top: 4vh;
+}
+h1{
+  text-align: center;
+}
